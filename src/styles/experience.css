@@ -1,0 +1,48 @@
+#experience {
+    height: calc(100vh - 4rem);
+    width: 100vw;
+    max-width: 70rem;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.experience-header {
+    margin-bottom: 1rem;
+    font-size: 3rem;
+}
+
+.company {
+    width: 100vw;
+    max-width: 40rem;
+    background-color: rgb(50,50,50);
+    padding: 2rem 3rem;
+    border-radius: 2rem;
+}
+
+.job-title {
+    color: yellow;
+    font-size: 2.4rem;
+    font-weight: 900;
+    margin: 0.5rem 0;
+}
+
+.company-detail {
+    font-size: 1.15rem;
+    margin-bottom: 1rem;
+}
+
+.job-summary {
+    width: 100vw;
+    max-width: 30rem;
+    margin: 0 auto;
+    height: auto;
+}
+
+.job-summary li {
+    font-size: medium;
+    line-height: 1.75rem;
+    margin: 0.5rem 0;
+}
