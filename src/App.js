@@ -1,3 +1,4 @@
+import Contact from "./components/Contact";
 import Education from "./components/Education";
 import Experience from "./components/Experience";
 import Intro from "./components/Intro";
@@ -9,9 +10,10 @@ function App() {
     <div className="App">
       <Navbar />
       <Intro />
-      <Education />
-      <Projects />
       <Experience />
+      <Projects />
+      <Education />
+      <Contact />
     </div>
   );
 }
