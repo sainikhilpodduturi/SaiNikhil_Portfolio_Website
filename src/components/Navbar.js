@@ -11,6 +11,7 @@ const Navbar = () => {
             <Link className='navbar-menu-item'>Experience</Link>
             <Link className='navbar-menu-item'>Projects</Link>
             <Link className='navbar-menu-item'>Education</Link>
+            <Link className='navbar-menu-item'>Skills</Link>
         </div>
         <button className='navbar-btn'>Contact Me</button>
      </nav>

@@ -1,0 +1,36 @@
+#skills {
+    width: 100vw;
+    max-width: 75rem;
+    margin: 1rem auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.skills-header {
+    font-size: 3rem;
+    margin: 1rem 0;
+}
+
+.skills {
+    width: 100%;
+    max-width: 70rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.skill {
+    margin: 1rem;
+    background-color: rgb(72, 72, 72);
+    padding: 0.5rem 2rem;
+    max-width: 40%;
+    width: 100%;
+    color: yellow;
+    height: auto;
+    font-size: 1.5rem;
+    text-align: center;
+    border-radius: 4rem;
+}
