@@ -1,11 +1,12 @@
 import React from "react";
 import "../styles/intro.css";
-import Image from "../assets/Image.jpeg";
+import Image from "../assets/Image.png";
 import { Link } from "react-scroll";
 
 const Intro = () => {
   return (
     <section id="intro">
+      <img src={Image} alt="" className="introImg" />
       <div className="introContent">
         <span className="hello">Hello,</span>
         <span className="introText">
@@ -23,7 +24,6 @@ const Intro = () => {
           <button className="introBtn">Hire Me</button>
         </Link>
       </div>
-      <img src={Image} alt="" className="introImg" />
     </section>
   );
 };

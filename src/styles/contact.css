@@ -1,25 +1,26 @@
 #contact {
-    min-height: calc(100vh - 4rem);
-    width: 100vw;
-    max-width: 60rem;
-    text-align: center;
+    width: 90vw;
+    max-width: 70rem;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
 }
 
 .contact-header {
     font-size: 3rem;
+    margin-bottom: 1rem;
 }
 
 .contact-desc {
-    margin: 1rem;
+    margin: 0 1rem;
 }
 
 .contact-form {
     width: 80vw ;
-    max-width: 60rem;
+    max-width: 70rem;
     margin: 1rem;
     display: flex;
     flex-direction: column;
@@ -29,10 +30,10 @@
 
 .name, .email, .message {
     width: 100%;
-    max-width: 40rem;
+    max-width: 50rem;
     margin: 0.5rem;
     color: white;
-    background-color: rgb(40, 40, 40);
+    background-color: rgb(70,70,70);
     padding: 0.5rem 1rem;
     border: none;
     border-radius: 0.5rem;
@@ -41,10 +42,13 @@
 
 .submit-btn {
     background-color: white;
-    margin: 2rem;
+    margin: 1rem;
+    width: 100%;
+    max-width: 50rem;
     padding: 1rem 5rem;
     border-radius: 1rem;
-    font-size: 1.25rem;
+    font-size: 1.5rem;
+    font-weight: 700;
     cursor: pointer;
 }
 
