@@ -1,7 +1,7 @@
 #footer {
     height: 4rem;
     width: 100vw;
-    max-width: 80rem;
+    max-width: 100rem;
     margin: 0 auto;
     background-color: rgb(95, 95, 95);
     display: flex;
