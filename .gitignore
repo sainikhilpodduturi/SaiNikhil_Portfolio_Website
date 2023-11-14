@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 /src/assets/Image.png
+/src/assets/Resume.pdf
 .pnp.js
 
 # testing

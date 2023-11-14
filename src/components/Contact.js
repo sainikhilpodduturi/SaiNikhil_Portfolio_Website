@@ -1,6 +1,9 @@
 import React, { useRef } from "react";
 import "../styles/contact.css";
 import emailjs from "@emailjs/browser";
+import GithubLogo from "../assets/githubLogo.png"
+import LinkedInLogo from "../assets/linkedinLogo.png"
+
 
 const Contact = () => {
   const form = useRef();
@@ -56,6 +59,11 @@ const Contact = () => {
           Submit
         </button>
       </form>
+      <p className="link-header">Visit My Social Profiles</p>
+      <div className="links">
+        <button className="link" onClick={()=>{window.open('https://github.com/sainikhilpodduturi')}}><img src={GithubLogo} alt="Github Logo" className="link-logo"/><span>Github</span></button>
+        <button className="link" onClick={()=>{window.open('https://www.linkedin.com/in/sainikhil-podduturi-0b1a261a6/')}}><img src={LinkedInLogo} alt="LinkedIn Logo" className="link-logo"/><span>LinkedIn</span></button>
+      </div>
     </section>
   );
 };

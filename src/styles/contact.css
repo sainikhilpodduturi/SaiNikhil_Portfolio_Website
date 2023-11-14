@@ -55,3 +55,41 @@
 .submit-btn:hover {
     background-color: yellow;
 }
+
+.link-header {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.link-logo {
+    height: 45px;
+    width: 45px;
+    margin: 0 0.25rem;
+}
+
+.links {
+    display: flex;
+    margin-bottom: 2rem;
+}
+
+.link {
+    margin: 0 1rem;
+    display: flex;
+    align-items: center;
+    background-color: rgb(206, 206, 206);
+    color: black;
+    cursor: pointer;
+    font-weight: 700;
+    padding: 0.5rem 2rem;
+    border-radius: 3rem;
+}
+
+.link span {
+    font-size: 1rem;
+}
+
+.link:hover {
+    background-color: yellow;
+}

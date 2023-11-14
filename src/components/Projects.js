@@ -8,60 +8,68 @@ const Projects = () => {
       <h2 className="projectheader">PROJECTS</h2>
       <div className="works">
         <div className="work">
-          <h4 className="title">Lorem</h4>
+          <h4 className="title">iNotebook</h4>
           <div className="description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum
-            aliquid vero eveniet animi debitis recusandae similique nam,
-            expedita beatae fugiat numquam, enim natus? Veniam eos at tempora
-            necessitatibus aperiam nisi!
+            <ul>
+              <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officia, voluptas!</li>
+              <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, doloremque?</li>
+              <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, cum?</li>
+            </ul>
+          </div>
+          <button className="workbtn">
+            <Link>View Project</Link>
+          </button>
+          <button className="workbtn">
+            <Link>View Project</Link>
+          </button>
+        </div>
+        <div className="work">
+          <h4 className="title">iNews</h4>
+          <div className="description">
+          <ul>
+              <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officia, voluptas!</li>
+              <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, doloremque?</li>
+              <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, cum?</li>
+            </ul>
           </div>
           <button className="workbtn">
             <Link>View Project</Link>
           </button>
         </div>
         <div className="work">
-          <h4 className="title">Lorem</h4>
+          <h4 className="title">iAnalyze</h4>
           <div className="description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum
-            aliquid vero eveniet animi debitis recusandae similique nam,
-            expedita beatae fugiat numquam, enim natus? Veniam eos at tempora
-            necessitatibus aperiam nisi!
+          <ul>
+              <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officia, voluptas!</li>
+              <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, doloremque?</li>
+              <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, cum?</li>
+            </ul>
           </div>
           <button className="workbtn">
             <Link>View Project</Link>
           </button>
         </div>
         <div className="work">
-          <h4 className="title">Lorem</h4>
+          <h4 className="title">iFoodie</h4>
           <div className="description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum
-            aliquid vero eveniet animi debitis recusandae similique nam,
-            expedita beatae fugiat numquam, enim natus? Veniam eos at tempora
-            necessitatibus aperiam nisi!
+          <ul>
+              <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officia, voluptas!</li>
+              <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, doloremque?</li>
+              <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, cum?</li>
+            </ul>
           </div>
           <button className="workbtn">
             <Link>View Project</Link>
           </button>
         </div>
         <div className="work">
-          <h4 className="title">Lorem</h4>
+          <h4 className="title">iCoder</h4>
           <div className="description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum
-            aliquid vero eveniet animi debitis recusandae similique nam,
-            expedita beatae fugiat numquam, enim natus? Veniam eos at tempora
-            necessitatibus aperiam nisi!
-          </div>
-          <button className="workbtn">
-            <Link>View Project</Link>
-          </button>
-        </div>
-        <div className="work">
-          <h4 className="title">Lorem</h4>
-          <div className="description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum
-            aliquid vero eveniet animi debitis recusandae similique nam,
-            expedita beatae fugiat numquam, enim natus? Veniam eos at tempora
-            necessitatibus aperiam nisi!
+          <ul>
+              <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officia, voluptas!</li>
+              <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, doloremque?</li>
+              <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, cum?</li>
+            </ul>
           </div>
           <button className="workbtn">
             <Link>View Project</Link>
