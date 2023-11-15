@@ -12,24 +12,42 @@ const Experience = () => {
         </p>
         <ul className="job-summary">
           <li>
-            Developed a module of the ITOPS tool using React and Spring Boot,
-            ensuring smooth functionality and optimal user experience.
+            Spearheaded the development of a critical module for the ITOPS tool,
+            leveraging React for the front-end and Spring Boot for the back-end.
+            Ensured seamless functionality and an optimal user experience
+            through meticulous design and implementation.
           </li>
           <li>
-            Actively participated in Agile methodologies, including sprint
-            planning, daily stand-ups, and retrospective meetings, fostering
-            collaboration, transparency, and continuous improvement in project
-            execution.
+            Played a pivotal role in adopting and implementing Agile
+            methodologies, actively engaging in sprint planning, daily
+            stand-ups, and retrospective meetings. This fostered a culture of
+            collaboration, transparency, and continuous improvement, enhancing
+            overall project execution efficiency.
           </li>
           <li>
-            Prepared test cases for a specific component of the ITOPS tool,
-            ensuring thorough verification of its functionalities and features.
+            Demonstrated a commitment to software quality by meticulously
+            preparing and executing test cases for a specific component of the
+            ITOPS tool. This thorough verification process ensured the
+            reliability and robustness of the tool's functionalities and
+            features.
           </li>
           <li>
             Conducted extensive research and analysis on various Document
-            Management System (DMS) tools available in the market. Evaluated
-            their features and suitability to meet the requirements of the ITOPS
-            tool.
+            Management System (DMS) tools available in the market. This involved
+            evaluating their features and assessing their suitability to meet
+            the specific requirements of the ITOPS tool. tool.
+          </li>
+          <li>
+            Facilitated effective cross-functional collaboration by actively
+            participating in diverse project activities, contributing to a
+            well-rounded understanding of project dynamics beyond individual
+            roles and responsibilities.
+          </li>
+          <li>
+            Exhibited a problem-solving mindset by addressing challenges
+            encountered during the development process. Additionally,
+            contributed to the innovative solutions and enhancements that
+            positively impacted the overall performance of the ITOPS tool.
           </li>
         </ul>
       </div>
